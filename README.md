@@ -14,7 +14,7 @@ TicketBuddy is a public Discord bot designed to help you manage support tickets 
 ## How to Invite TicketBuddy
 
 1. **Invite Link**
-   - [Click here to invite TicketBuddy to your server](https://discord.com/oauth2/authorize?client_id=1384684790250344499&permissions=268561424&integration_type=0&scope=bot+applications.commands)
+   - [Click here to invite TicketBuddy to your server](https://discord.com/oauth2/authorize?client_id=1384684790250344499)
 
 2. **Permissions**
    - Grant the bot permissions to manage channels, roles, send messages, and read message history.
